@@ -6,10 +6,10 @@ For each item, we need to write its age and original cost.
 
 - 1 Air Purifier - Shark - HP232
 - 1 Vacuum - Roomba E5 - With Charging Base - iRobot
-- 1 Outlet Adapter - 4 USB - (5) 110 Outlets - White - QINLIANF
+- 1 Outlet Adapter - 4 USB - (5) 110 Outlets - White - QINLIANF | $9.99 | Purchased: Mar 3, 2025 | [Amazon](https://www.amazon.com/dp/B08R6S1M1K)
 - 4 Dining Chair - Wood Frame - No Arms - Fabric Padded Seat - 18" Wide x 19" Deep x 29.5" Tall
 - 2 Bar Stool - Chrome/Metal/Vinyl Padded Seat - Black - 38" Tall x 16" Diameter
-- 1 Food Processor - Plug In - Gray - Cuisinart - FP-8
+- 1 Food Processor - Plug In - Gray - Cuisinart - FP-8 | Age: a few years, original cost unknown, current price $138.46 | [Amazon](https://a.co/d/0gzNaXND)
 - 1 Wedge Pillow - Vinyl - Black - Handle - 18" x 14" - Seat Solution Orthopedic Seat Cushion
 - 1 Juicer - Plastic - Plug In - Counter Top - White - Brentwood - J-15
 - 2 Plate - Melamine - Flower Print - White - 10.5" - Ceramine
