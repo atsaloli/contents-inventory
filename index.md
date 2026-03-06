@@ -5,7 +5,7 @@
 | Qty | Item Description | Age | Original Cost | Current Cost |
 |-----|-----------------|-----|---------------|--------------|
 | 1 | Air Purifier - Shark - HP232 | | | |
-| 1 | Vacuum - Roomba E5 - With Charging Base - iRobot | | | |
+| 1 | Vacuum - Roomba E5 - With Charging Base - iRobot | ~6 years (purchased Nov 29, 2019) | $417.08 | |
 | 1 | [Outlet Adapter - 4 USB - (5) 110 Outlets - White - QINLIANF](https://www.amazon.com/dp/B08R6S1M1K) | ~1 year (purchased Mar 3, 2025) | $9.99 | |
 | 4 | Dining Chair - Wood Frame - No Arms - Fabric Padded Seat - 18" Wide x 19" Deep x 29.5" Tall | | | |
 | 2 | Bar Stool - Chrome/Metal/Vinyl Padded Seat - Black - 38" Tall x 16" Diameter | | | |
