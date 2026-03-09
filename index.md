@@ -63,9 +63,9 @@
 | 14 | Water Filter - Zero Water Five Stage - Culligan | ~6 months | $140.00 (all 14) | |
 | 3 | Medication - Prescription | | | |
 | 1 | Plastic Cutlery & Napkin Consumables | ~6 months | $25.00 | |
-| 20 | Trash Bag - Kitchen - 13 Gallon | | | |
+| 20 | Trash Bag - Kitchen - 13 Gallon | ~1 year | $10.00 | |
 | 1 | First Aid Consumables | | | |
-| 1 | First Aid Kit - 86 Piece Set - Every Kit Cares | | | |
+| 1 | First Aid Kit - 86 Piece Set - Every Kit Cares | ~1 year | $7.00 | |
 | 1 | Medication - Over The Counter | | | |
 | 1 | Aromatherapy Consumables | | | |
 | 1 | Medication - Over The Counter | | | |
