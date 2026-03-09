@@ -51,7 +51,7 @@
 | 4 | CD | ~2 years | $40.00 (all 4) | |
 | 1 | Hand Fan - Cardboard/Wood Stick - 10" x 10" (not sure - is there a photo?) | | | |
 | 1 | Drawer Unit - Raw Unfinished Wood/Plastic Casters - 6 Drawers - 13" x 15.25" Deep x 26" Tall (not sure - is there a photo?) | | | |
-| 1 | Protected Outlet - Single - Powerzone - OR802105 (not sure - is there a photo?) | | | |
+| 1 | Protected Outlet - Single - Powerzone - OR802105 | unknown | $10.00 | |
 
 ## Food & Consumables
 
