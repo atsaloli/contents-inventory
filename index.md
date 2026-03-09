@@ -41,17 +41,17 @@
 | 1 | Tablet Crusher - Clear Plastic/Blue Rubber - 2.5" Diameter | ~5 years | $8.00 | |
 | 1 | Throw Pillow - Fringed - Gold - 18" x 18" | ~3 years | $15.00 | |
 | 55 | CD | 2-20 years | $550.00 (all 55) | |
-| 5 | CD Box Set | | | |
-| 4 | CD Case - Blue Fabric/Black Border - Holds 50 CDs - 6.25" x 6.25" x 2" Thick | | | |
-| 1 | CD Case - Gray/Black & Orange Stitching - Holds 50 CDs - 6.25" x 6.25" x 2" Thick | | | |
-| 60 | CD | | | |
-| 1 | Rolling Cart - 3 Shelf - Gray Metal/Foam Handles/Plastic Casters - 16" x 10.25" x 25" Tall | | | |
-| 2 | CD Case - Fabric - Black/Blue - Holds 50 CDs - 6.5" x 6.5" x 2" | | | |
-| 75 | Cassette Tape | | | |
-| 4 | CD | | | |
-| 1 | Hand Fan - Cardboard/Wood Stick - 10" x 10" | | | |
-| 1 | Drawer Unit - Raw Unfinished Wood/Plastic Casters - 6 Drawers - 13" x 15.25" Deep x 26" Tall | | | |
-| 1 | Protected Outlet - Single - Powerzone - OR802105 | | | |
+| 5 | CD Box Set | ~3 years | $50.00 (all 5) | |
+| 4 | CD Case - Blue Fabric/Black Border - Holds 50 CDs - 6.25" x 6.25" x 2" Thick | ~3 years | $12.00 (all 4) | |
+| 1 | CD Case - Gray/Black & Orange Stitching - Holds 50 CDs - 6.25" x 6.25" x 2" Thick | ~10 years | $12.00 | |
+| 60 | CD | ~10 years | $600.00 (all 60) | |
+| 1 | Rolling Cart - 3 Shelf - Gray Metal/Foam Handles/Plastic Casters - 16" x 10.25" x 25" Tall | ~10 years | $15.00 | |
+| 2 | CD Case - Fabric - Black/Blue - Holds 50 CDs - 6.5" x 6.5" x 2" | ~10 years | $8.00 (both) | |
+| 75 | Cassette Tape | 10-30 years | $750.00 (all 75) | |
+| 4 | CD | ~2 years | $40.00 (all 4) | |
+| 1 | Hand Fan - Cardboard/Wood Stick - 10" x 10" (not sure - is there a photo?) | | | |
+| 1 | Drawer Unit - Raw Unfinished Wood/Plastic Casters - 6 Drawers - 13" x 15.25" Deep x 26" Tall (not sure - is there a photo?) | | | |
+| 1 | Protected Outlet - Single - Powerzone - OR802105 (not sure - is there a photo?) | | | |
 
 ## Food & Consumables
 
