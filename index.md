@@ -29,18 +29,18 @@
 | 1 | Onion Slicer - Plastic - Red - 4" x 3" x 1.5" Tall - Everholder | ~10 years | $3.00 | |
 | 1 | Ice Cream Scoop - Stainless Steel / Plastic - Black - Everyday Living | ~10 years | $5.00 | |
 | 1 | Wine Bottle Stopper - Stainless Steel Top/Plastic/Rubber - White/Orange | ~20 years | $1.00 | |
-| 1 | Wine Bottle Opener - Stainless Steel/Plastic Bushing - White - 2 Lever | | | |
-| 1 | Peeler - Hand Held - Chrome & Plastic/Stainless Steel Blade - Purple - KitchenAid | | | |
-| 2 | Knife - Meat Kosher - Plastic Handle - Red - 4" Long | | | |
-| 1 | Sandwich Spreader Knife - Stainless Steel/Plastic Handle - Smooth & Serrated - White - S173SE | | | |
-| 1 | Steak Knife - Plastic Handle/Stainless Steel Blade - Red - 5" | | | |
-| 1 | Plant Twist Ties - 8" Each - 100 Per Package - Vigoro - 939048 | | | |
-| 1 | Index Card Box - Plastic - Brown - 5.5" x 3" x 3.75" | | | |
-| 1 | Blood Pressure Monitor - Omron - HEM-629 | | | |
-| 1 | Water Bottle - Hot & Cold Therapy - 2 Quart - Cara | | | |
-| 1 | Tablet Crusher - Clear Plastic/Blue Rubber - 2.5" Diameter | | | |
-| 1 | Throw Pillow - Fringed - Gold - 18" x 18" | | | |
-| 55 | CD | | | |
+| 1 | Wine Bottle Opener - Stainless Steel/Plastic Bushing - White - 2 Lever | ~10 years | $3.00 | |
+| 1 | Peeler - Hand Held - Chrome & Plastic/Stainless Steel Blade - Purple - KitchenAid | ~5 years | $8.00 | |
+| 2 | Knife - Meat Kosher - Plastic Handle - Red - 4" Long | ~2 years | $20.00 | |
+| 1 | Sandwich Spreader Knife - Stainless Steel/Plastic Handle - Smooth & Serrated - White - S173SE | ~5 years | $3.00 | |
+| 1 | Steak Knife - Plastic Handle/Stainless Steel Blade - Red - 5" | unknown | | |
+| 1 | Plant Twist Ties - 8" Each - 100 Per Package - Vigoro - 939048 | ~2 years | $10.00 | |
+| 1 | Index Card Box - Plastic - Brown - 5.5" x 3" x 3.75" | ~10 years | $3.00 | |
+| 1 | Blood Pressure Monitor - Omron - HEM-629 | ~5 years | unknown | |
+| 1 | Water Bottle - Hot & Cold Therapy - 2 Quart - Cara | ~2 years | $10.00 | |
+| 1 | Tablet Crusher - Clear Plastic/Blue Rubber - 2.5" Diameter | ~5 years | $8.00 | |
+| 1 | Throw Pillow - Fringed - Gold - 18" x 18" | ~3 years | $15.00 | |
+| 55 | CD | 2-20 years | $550.00 (all 55) | |
 | 5 | CD Box Set | | | |
 | 4 | CD Case - Blue Fabric/Black Border - Holds 50 CDs - 6.25" x 6.25" x 2" Thick | | | |
 | 1 | CD Case - Gray/Black & Orange Stitching - Holds 50 CDs - 6.25" x 6.25" x 2" Thick | | | |
