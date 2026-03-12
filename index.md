@@ -49,27 +49,27 @@
 | 2 | CD Case - Fabric - Black/Blue - Holds 50 CDs - 6.5" x 6.5" x 2" | ~10 years | $8.00 (both) |
 | 75 | Cassette Tape | 10-30 years | $750.00 (all 75) |
 | 4 | CD | ~2 years | $40.00 (all 4) |
-| 1 | Hand Fan - Cardboard/Wood Stick - 10" x 10" (not sure - is there a photo?) | | |
-| 1 | Drawer Unit - Raw Unfinished Wood/Plastic Casters - 6 Drawers - 13" x 15.25" Deep x 26" Tall (not sure - is there a photo?) | | |
-| 1 | Protected Outlet - Single - Powerzone - OR802105 | unknown | $10.00 |
+| 1 | Hand Fan - Cardboard/Wood Stick - 10" x 10" | ~10 years | $20.00 |
+| 1 | Drawer Unit - Raw Unfinished Wood/Plastic Casters - 6 Drawers - 13" x 15.25" Deep x 26" Tall | ~20 years | $89.00 |
+| 1 | Protected Outlet - Single - Powerzone - OR802105 | ~2 years | $15.00 |
 
 ## Food & Consumables
 
 | Qty | Item Description | Age | Original Cost |
 |-----|-----------------|-----|---------------|
 | 1 | Cleaning Consumables - Polishes | ~1 year | $10.00 |
-| 1 | Shelf Liner - Clear - 24" x 16" | | |
+| 1 | Shelf Liner - Clear - 24" x 16" | ~20 years | $3.00 |
 | 1 | Food Consumables - Dry Food / Coffee | ~1 year | $15.00 |
 | 14 | Water Filter - Zero Water Five Stage - Culligan | ~6 months | $140.00 (all 14) |
-| 3 | Medication - Prescription | | |
+| 3 | Medication - Prescription | ~6 months | $127.00 (all 3) |
 | 1 | Plastic Cutlery & Napkin Consumables | ~6 months | $25.00 |
 | 20 | Trash Bag - Kitchen - 13 Gallon | ~1 year | $10.00 |
-| 1 | First Aid Consumables | | |
+| 1 | First Aid Consumables | ~1 year | $5.00 |
 | 1 | First Aid Kit - 86 Piece Set - Every Kit Cares | ~1 year | $7.00 |
-| 1 | Medication - Over The Counter | | |
-| 1 | Aromatherapy Consumables | | |
-| 1 | Medication - Over The Counter | | |
-| 4 | Medication - Prescription | | |
-| 1 | Supplements & Vitamins Consumables | | |
-| 1 | Shelf Liner Consumables - Clear Rubber | | |
-| 1 | Aromatherapy Consumables | | |
+| 1 | Medication - Over The Counter | ~6 months | $25.00 |
+| 1 | Aromatherapy Consumables | ~1 year | $10.00 |
+| 1 | Medication - Over The Counter | ~6 months | $25.00 |
+| 4 | Medication - Prescription | ~6 months | $160.00 |
+| 1 | Supplements & Vitamins Consumables | ~6 months | $27.00 |
+| 1 | Shelf Liner Consumables - Clear Rubber | ~10 years | $5.00 |
+| 1 | Aromatherapy Consumables | ~6 months | $8.00 |
